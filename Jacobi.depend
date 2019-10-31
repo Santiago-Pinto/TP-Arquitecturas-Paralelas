@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1572357094 source:c:\users\santiago.pinto\desktop\jacobi\main.cpp
+	<iostream>
+	"fileParser.h"
+	"matrixIO.h"
+
+1572355620 c:\users\santiago.pinto\desktop\jacobi\fileparser.h
+	<string>
+	<vector>
+
+1572357167 source:c:\users\santiago.pinto\desktop\jacobi\fileparser.cpp
+	"fileParser.h"
+	<fstream>
+	<iostream>
+	<algorithm>
+
+1572356847 c:\users\santiago.pinto\desktop\jacobi\matrixio.h
+	<iostream>
+	<vector>
+
